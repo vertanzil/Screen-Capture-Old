@@ -1,0 +1,10 @@
+D:\C#\ScreenGrabber\ScreenGrabber\bin\x86\Release\ScreenGrabber.exe.config
+D:\C#\ScreenGrabber\ScreenGrabber\bin\x86\Release\ScreenGrabber.exe
+D:\C#\ScreenGrabber\ScreenGrabber\bin\x86\Release\ScreenGrabber.pdb
+D:\C#\ScreenGrabber\ScreenGrabber\obj\x86\Release\ScreenGrabber.CaptureWindow.resources
+D:\C#\ScreenGrabber\ScreenGrabber\obj\x86\Release\ScreenGrabber.Form1.resources
+D:\C#\ScreenGrabber\ScreenGrabber\obj\x86\Release\ScreenGrabber.Properties.Resources.resources
+D:\C#\ScreenGrabber\ScreenGrabber\obj\x86\Release\ScreenGrabber.csproj.GenerateResource.Cache
+D:\C#\ScreenGrabber\ScreenGrabber\obj\x86\Release\ScreenGrabber.exe
+D:\C#\ScreenGrabber\ScreenGrabber\obj\x86\Release\ScreenGrabber.pdb
+D:\C#\ScreenGrabber\ScreenGrabber\obj\x86\Release\ScreenGrabber.csprojResolveAssemblyReference.cache

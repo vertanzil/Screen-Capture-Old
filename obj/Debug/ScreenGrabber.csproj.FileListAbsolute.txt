@@ -1,0 +1,34 @@
+D:\C#\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.csprojResolveAssemblyReference.cache
+D:\C#\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.CaptureWindow.resources
+D:\C#\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.Form1.resources
+D:\C#\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.Properties.Resources.resources
+D:\C#\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.csproj.GenerateResource.Cache
+D:\C#\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.csproj.CoreCompileInputs.cache
+D:\C#\ScreenGrabber\ScreenGrabber\bin\Debug\ScreenGrabber.exe.config
+D:\C#\ScreenGrabber\ScreenGrabber\bin\Debug\ScreenGrabber.exe
+D:\C#\ScreenGrabber\ScreenGrabber\bin\Debug\ScreenGrabber.pdb
+D:\C#\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.exe
+D:\C#\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.pdb
+D:\C#\ScreenGrabber(old)\ScreenGrabber\obj\Debug\ScreenGrabber.csprojResolveAssemblyReference.cache
+D:\C#\ScreenGrabber(old)\ScreenGrabber\obj\Debug\ScreenGrabber.CaptureWindow.resources
+D:\C#\ScreenGrabber(old)\ScreenGrabber\obj\Debug\ScreenGrabber.Form1.resources
+D:\C#\ScreenGrabber(old)\ScreenGrabber\obj\Debug\ScreenGrabber.Properties.Resources.resources
+D:\C#\ScreenGrabber(old)\ScreenGrabber\obj\Debug\ScreenGrabber.csproj.GenerateResource.Cache
+D:\C#\ScreenGrabber(old)\ScreenGrabber\obj\Debug\ScreenGrabber.csproj.CoreCompileInputs.cache
+D:\C#\ScreenGrabber(old)\ScreenGrabber\obj\Debug\ScreenGrabber.exe
+D:\C#\ScreenGrabber(old)\ScreenGrabber\obj\Debug\ScreenGrabber.pdb
+D:\C#\ScreenGrabber(old)\ScreenGrabber\bin\Debug\ScreenGrabber.exe.config
+D:\C#\ScreenGrabber(old)\ScreenGrabber\bin\Debug\ScreenGrabber.exe
+D:\C#\ScreenGrabber(old)\ScreenGrabber\bin\Debug\ScreenGrabber.pdb
+\\KYLE-PC\Project Files\C#\ScreenGrabber(old)\ScreenGrabber\bin\Debug\ScreenGrabber.exe.config
+\\KYLE-PC\Project Files\C#\ScreenGrabber(old)\ScreenGrabber\bin\Debug\ScreenGrabber.exe
+\\KYLE-PC\Project Files\C#\ScreenGrabber(old)\ScreenGrabber\bin\Debug\ScreenGrabber.pdb
+\\KYLE-PC\Project Files\C#\ScreenGrabber(old)\ScreenGrabber\obj\Debug\ScreenGrabber.csprojResolveAssemblyReference.cache
+\\KYLE-PC\Project Files\C#\ScreenGrabber(old)\ScreenGrabber\obj\Debug\ScreenGrabber.CaptureWindow.resources
+\\KYLE-PC\Project Files\C#\ScreenGrabber(old)\ScreenGrabber\obj\Debug\ScreenGrabber.Form1.resources
+\\KYLE-PC\Project Files\C#\ScreenGrabber(old)\ScreenGrabber\obj\Debug\ScreenGrabber.Properties.Resources.resources
+\\KYLE-PC\Project Files\C#\ScreenGrabber(old)\ScreenGrabber\obj\Debug\ScreenGrabber.csproj.GenerateResource.Cache
+\\KYLE-PC\Project Files\C#\ScreenGrabber(old)\ScreenGrabber\obj\Debug\ScreenGrabber.csproj.CoreCompileInputs.cache
+\\KYLE-PC\Project Files\C#\ScreenGrabber(old)\ScreenGrabber\obj\Debug\ScreenGrabber.exe
+\\KYLE-PC\Project Files\C#\ScreenGrabber(old)\ScreenGrabber\obj\Debug\ScreenGrabber.pdb
+\\KYLE-PC\Project Files\C#\ScreenGrabber(old)\ScreenGrabber\bin\Debug\Imgur.API.dll
